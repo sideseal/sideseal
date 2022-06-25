@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, There!
 
-I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** in my free time. (Work in progress...)
+I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a hobby. (Work in progress...)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Typiespectre&style=for-the-badge) -->
-
-<br />
 
 ## LANGS & TOOLS
 
@@ -47,5 +45,5 @@ I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** in my 
   <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
 </a>
 <a href="mailto:sideseal@phillib.com">
-  <img src="https://img.shields.io/badge/sideseal-67C7BB?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/sideseal-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
