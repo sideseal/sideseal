@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a hobby. (Work in progress...)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Typiespectre&style=for-the-badge) -->
+<br />
 
 ## LANGS & TOOLS
 
