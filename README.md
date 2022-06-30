@@ -48,6 +48,8 @@ I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a h
 <a href="mailto:sideseal@phillib.com">
   <img src="https://img.shields.io/badge/sideseal-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<!--
 <a href="https://twitter.com/sideseal">
   <img src="https://img.shields.io/badge/sideseal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+-->
