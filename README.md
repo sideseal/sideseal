@@ -46,6 +46,10 @@ I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a h
 
 ### Studying in...
 <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white" />
+
+### Contributing
+  - [Together42 backend](https://github.com/sideseal/Together42_backend)
+ 
 <br />
 
 ## CONTACT
