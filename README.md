@@ -21,7 +21,6 @@ I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a h
 [![@sideseal's Holopin board](https://holopin.io/api/user/board?user=sideseal)](https://holopin.io/@sideseal)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Typiespectre&style=for-the-badge) -->
-<br />
 
 ## LANGS & TOOLS
 
