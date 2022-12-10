@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <!-- I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a hobby. (Work in progress...) -->
 <br />
 
-[![@sideseal's Holopin board](https://holopin.io/api/user/board?user=sideseal)](https://holopin.io/@sideseal)
+<!-- [![@sideseal's Holopin board](https://holopin.io/api/user/board?user=sideseal)](https://holopin.io/@sideseal) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=Typiespectre&style=for-the-badge) -->
-
+<!-- 
 ## LANGS & TOOLS
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 ### Contribution
   - [Together42 backend](https://github.com/sideseal/Together42_backend)
  
-<br />
+<br /> -->
+
+Profile under construction...
 
 ## CONTACT
 <a href="https://matrix.to/#/@typiespectre_:matrix.org">
