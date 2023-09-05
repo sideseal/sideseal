@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br /> -->
 
 Profile under construction...
-
+<!--
 ## CONTACT
 <a href="https://matrix.to/#/@typiespectre_:matrix.org">
   <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
@@ -63,7 +63,6 @@ Profile under construction...
 <a href="mailto:sideseal@phillib.com">
   <img src="https://img.shields.io/badge/sideseal-38B2AC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<!--
 <a href="https://twitter.com/sideseal">
   <img src="https://img.shields.io/badge/sideseal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
