@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  
 <br /> -->
 
-![rickroll](https://github.com/user-attachments/assets/6c2d0c68-0c19-4dcc-afe0-6fb4c4cc6b2d)
+![seal](https://github.com/user-attachments/assets/03569d4c-fc64-4927-986c-70130fd6a3dc)
 
 <!--
 ## CONTACT
