@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, There!
+<!-- ## 👋 Hi, There! -->
 
 <!-- I'm making *philosophy newsfeed* called **[Phillib](http://phillib.com)** as a hobby. (Work in progress...) -->
-<br />
+<!-- <br /> -->
 
 <!-- [![@sideseal's Holopin board](https://holopin.io/api/user/board?user=sideseal)](https://holopin.io/@sideseal) -->
 
